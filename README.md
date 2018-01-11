@@ -19,7 +19,7 @@ To add a IP to the ban list, open banned/banlist.php and add another IP to the a
 ```php
 $deny = array("127.0.0.1"); // For a single IP
 ```
-But if you want to add more IP's
+But if you want to add multiple IP's
 
 ```php
 $deny = array("127.0.0.1", "127.0.0.2", "127.0.0.3"); // For multiple IP's
