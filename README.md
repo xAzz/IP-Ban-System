@@ -1,5 +1,4 @@
 # PHP IP Ban System
-## Coded by xAz
 
 ### What is this PHP IP Ban System?
 This system is a IP Ban system made in pure php. It blocks a users IP from joining http://example.com/ and redirects the user to http://example.com/banned showing the user is banned. If a user that isn't banned tries accessing the banned page they will be redirected to http://example.com
