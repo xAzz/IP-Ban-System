@@ -7,8 +7,10 @@ This system is a IP Ban system made in pure php. It blocks a users IP from accce
 Add the php code supplied to the top of your page.
 
 ```php
-session_start();
-require('http://example.com/banned/banlist.php');
+<?php
+  session_start();
+  require('http://example.com/banned/banlist.php');
+?>
 ```
 
 ### How to add IP's to the Banlist?
